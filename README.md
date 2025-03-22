@@ -1,7 +1,7 @@
-###react-native-movies
+### react-native-movies
 
-React Native Expo app to learn essential skills for mobile development along the way.
-Tutorial from: [Youtube Javascript Mastery](https://www.youtube.com/watch?v=f8Z9JyB2EIE)
+- React Native Expo app to learn essential skills for mobile development along the way.
+- Tutorial from: [Youtube Javascript Mastery](https://www.youtube.com/watch?v=f8Z9JyB2EIE)
 
 ## Get started
 
